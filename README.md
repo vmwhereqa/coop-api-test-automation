@@ -20,7 +20,9 @@ Install the dependencies and devDependencies and start the server.
 ```sh
 $ yarn
 ```
-## Test cases
+## Secrets
+
+Add your secrets of coop such as user ID  and client_secret to .env file
 
 
 ### Code Quality
